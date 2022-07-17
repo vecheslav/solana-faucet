@@ -1,0 +1,8 @@
+POST http://localhost:4000/mint HTTP/1.1
+content-type: application/json
+
+{
+    "mint": "CoaLsx42C2sDqNEfxrtVgxoLcuw73QgWXa7YWdUVppGS",
+    "to": "AqH6v4BKjyUMn5Q2vVqYrCD1DvZ2APQjErn9b86pXjMK",
+    "amount": "100"
+}
